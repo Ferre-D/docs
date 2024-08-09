@@ -38,14 +38,14 @@
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "name": "FAQ",
+      "icon": "clipboard-question",
+      "url": "https://docs.rent-assist.app/faq"
     },
     {
       "name": "Blog",
       "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://blog.rent-assist.app"
     }
   ],
   "navigation": [
