@@ -30,10 +30,12 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "pages/onboarding",
-        "pages/properties",
+        "pages/admins",
+        "pages/eigendommen",
         "pages/units",
-        "pages/tenants"
+        "pages/huurders",
+        "pages/herstelverzoeken",
+        "pages/berichten"
       ]
     }
   ],
